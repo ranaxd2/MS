@@ -401,3 +401,4 @@
 2024-11-28 22:58:47,663 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:the_nether
 2024-11-28 22:58:47,697 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
 2024-11-28 22:58:47,697 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:the_end
+2024-11-28 23:07:24,796 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >UNCOMMON

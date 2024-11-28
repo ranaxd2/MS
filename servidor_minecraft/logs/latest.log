@@ -1209,3 +1209,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 23:02:03.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fadid_byxd lost connection: Timed out
 [28Nov2024 23:02:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd left the game
 [28Nov2024 23:02:03.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9008c883-6714-30b6-836d-9793cd671c70 was unloaded
+[28Nov2024 23:06:31.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fadid_byxd[/127.42.185.77:41949] logged in with entity id 701 at (358.5726153873219, 86.88147066223085, 648.5266291770051)
+[28Nov2024 23:06:31.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd joined the game
+[28Nov2024 23:06:33.457] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9008c883-6714-30b6-836d-9793cd671c70 was loaded
+[28Nov2024 23:07:01.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set the time to 1000]
+[28Nov2024 23:09:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd has made the advancement [Monster Hunter]
+[28Nov2024 23:16:52.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set the time to 1000]
