@@ -412,3 +412,31 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [07Dec2024 00:33:43.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LORDTECA lost connection: Disconnected
 [07Dec2024 00:33:43.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORDTECA left the game
 [07Dec2024 00:33:43.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c3a4bb53-65bd-3d9e-8efa-79deb316c9ba was unloaded
+[07Dec2024 00:34:08.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LORDTECA[/127.183.86.158:50121] logged in with entity id 5459 at (320.8467796264978, 77.0, 655.7187985250295)
+[07Dec2024 00:34:08.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORDTECA joined the game
+[07Dec2024 00:34:10.295] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c3a4bb53-65bd-3d9e-8efa-79deb316c9ba was loaded
+[07Dec2024 00:34:54.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fadid_byxd[/127.230.16.214:36345] logged in with entity id 5582 at (317.74363862619805, 77.0, 660.6686246331908)
+[07Dec2024 00:34:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd joined the game
+[07Dec2024 00:34:56.484] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9008c883-6714-30b6-836d-9793cd671c70 was loaded
+[07Dec2024 00:35:00.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd was slain by LORDTECA using [palo por el poto]
+[07Dec2024 00:35:01.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORDTECA has made the advancement [Monster Hunter]
+[07Dec2024 00:35:26.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set the time to 1000]
+[07Dec2024 00:35:29.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set own game mode to Creative Mode]
+[07Dec2024 00:35:47.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Killed 28 entities]
+[07Dec2024 00:36:50.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set fadid_byxd's game mode to Survival Mode]
+[07Dec2024 00:36:56.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Survival Mode]
+[07Dec2024 00:37:06.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd was slain by LORDTECA using [palo por el poto]
+[07Dec2024 00:37:12.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set own game mode to Creative Mode]
+[07Dec2024 00:37:36.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Creative Mode]
+[07Dec2024 00:37:59.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Survival Mode]
+[07Dec2024 00:38:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set own game mode to Survival Mode]
+[07Dec2024 00:38:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd was slain by LORDTECA
+[07Dec2024 00:38:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd was slain by LORDTECA
+[07Dec2024 00:38:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Creative Mode]
+[07Dec2024 00:39:48.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Survival Mode]
+[07Dec2024 00:40:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd was slain by LORDTECA
+[07Dec2024 00:40:40.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Creative Mode]
+[07Dec2024 00:41:12.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set own game mode to Creative Mode]
+[07Dec2024 00:42:10.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Survival Mode]
+[07Dec2024 00:43:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Creative Mode]
+[07Dec2024 00:43:51.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set own game mode to Survival Mode]
