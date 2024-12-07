@@ -1886,6 +1886,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-07 00:35:36 +0000",
+      "minecraft:spider": "2024-12-07 00:43:14 +0000",
       "minecraft:zombie": "2024-12-07 00:35:01 +0000"
     },
     "done": false
@@ -1968,6 +1969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-07 00:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 00:38:35 +0000"
@@ -1983,6 +1990,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-07 00:35:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-07 00:43:14 +0000"
     },
     "done": true
   },
