@@ -401,3 +401,14 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [07Dec2024 00:22:15.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd has reached the goal [Arachnophobe's Nightmare]
 [07Dec2024 00:22:43.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set the time to 1000]
 [07Dec2024 00:23:17.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fadid_byxd: Set own game mode to Survival Mode]
+[07Dec2024 00:25:12.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Survival Mode]
+[07Dec2024 00:25:29.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fadid_byxd lost connection: Disconnected
+[07Dec2024 00:25:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fadid_byxd left the game
+[07Dec2024 00:25:29.627] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9008c883-6714-30b6-836d-9793cd671c70 was unloaded
+[07Dec2024 00:26:50.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LORDTECA: Set own game mode to Creative Mode]
+[07Dec2024 00:30:08.680] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@256e2850[id=<null>,name=fadid_byxd,properties={},legacy=false] (/127.230.16.214:43083): Took too long to log in
+[07Dec2024 00:30:08.681] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@256e2850[id=<null>,name=fadid_byxd,properties={},legacy=false] (/127.230.16.214:43083) lost connection: Took too long to log in
+[07Dec2024 00:30:08.725] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 00:33:43.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LORDTECA lost connection: Disconnected
+[07Dec2024 00:33:43.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORDTECA left the game
+[07Dec2024 00:33:43.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c3a4bb53-65bd-3d9e-8efa-79deb316c9ba was unloaded
